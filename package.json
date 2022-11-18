@@ -64,7 +64,7 @@
     }
   },
   "dependencies": {
-    "lib0": "0.2.42"
+    "lib0": "0.2.49"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.1.0",
